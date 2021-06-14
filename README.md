@@ -1,5 +1,6 @@
 # Lxzggy-Multi-Tool
-insta: ovhcertified ovh_servers PSN: CHECKYOURACC
+insta: ovhcertified ovh_servers 
+PSN: CHECKYOURACC
    IPPINGER               
    NOTEPAD               
    IPLOOKUP                
